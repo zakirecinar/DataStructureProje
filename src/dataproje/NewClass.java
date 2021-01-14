@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Scanner;
 /**
  *
- * @author zakir
+ * @author zakire
  */
 public class NewClass {
     public static void main(String[] args) {
@@ -145,9 +145,7 @@ public class NewClass {
     
     
     public static void ogrenciFound(Ogrenci ogrenciFound){
-    //naptık şimdi peki
-    // github daki dosyaları karşılaştırdı ama amacım github a yüklemek bunu :) heee tamam :)
-        
+    
     }
 
 }
